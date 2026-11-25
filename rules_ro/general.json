@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795650000000,
+  "updatedAt": 1795647806095,
   "data": {
     "main-rules": {
       "url": "https://forum.russia.online/threads/osnovnyye-pravila-proyekta.1/",
@@ -1249,7 +1249,7 @@
           "explanation": null,
           "note": null,
           "exception": "обжалование увольнения в IC инстанциях (прокуратура / суд).",
-          "penalty": "WARN / Выговор лидеру + понижение игрока на 1 ранг."
+          "penalty": "WARN обоим игрокам."
         },
         {
           "code": "4.4",
