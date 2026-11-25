@@ -1,0 +1,44 @@
+{
+  "coverage": "partial",
+  "note": "Каталог источников для последующей проверки. Не является готовой базой законов. Серверная принадлежность законов не подтверждена.",
+  "rules": [
+    {
+      "server": null,
+      "scope": "project",
+      "url": "https://forum.gta5rp.com/threads/obshchiye-pravila-proyekta.3414615/"
+    },
+    {
+      "server": "Alta",
+      "url": "https://forum.gta5rp.com/threads/obshchiye-pravila-servera.945440/"
+    },
+    {
+      "server": "Rockford",
+      "url": "https://forum.gta5rp.com/threads/pravila-servera-rockford.798012/"
+    }
+  ],
+  "laws": [
+    {
+      "server": null,
+      "title": "Уголовный кодекс",
+      "revision": "2026-10-17",
+      "url": "https://forum.gta5rp.com/threads/ugolovnyi-kodeks-red-ot-17-10-2026.360457/"
+    },
+    {
+      "server": null,
+      "title": "Уголовный кодекс",
+      "revision": "2026-10-11",
+      "url": "https://forum.gta5rp.com/threads/ugolovnyi-kodeks-redaktsiya-ot-11-10-2026.3424268/"
+    },
+    {
+      "server": null,
+      "title": "Процессуальный кодекс",
+      "revision": "2026-10-11",
+      "url": "https://forum.gta5rp.com/threads/protsessual-nyi-kodeks-redaktsiya-ot-11-10-2026.3424266/"
+    },
+    {
+      "server": null,
+      "title": "Законодательная база",
+      "url": "https://forum.gta5rp.com/forums/zakonodatel-naya-baza.1268/"
+    }
+  ]
+}
